@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-memory-pages/static/css/main.5f636a19.css",
-    "main.js": "/react-memory-pages/static/js/main.3846a5d3.js",
-    "static/js/787.d8f3d465.chunk.js": "/react-memory-pages/static/js/787.d8f3d465.chunk.js",
-    "static/media/Nami.png": "/react-memory-pages/static/media/Nami.ad3fc635fa54a9517046.png",
-    "static/media/Luffy.png": "/react-memory-pages/static/media/Luffy.60eec791391ea88d4d4b.png",
-    "static/media/brooks.png": "/react-memory-pages/static/media/brooks.b1f1ac81252deddaa310.png",
-    "static/media/zorro.png": "/react-memory-pages/static/media/zorro.c1852b227112ed0207be.png",
-    "static/media/Sanji.png": "/react-memory-pages/static/media/Sanji.0f4edde8fe7fd3c06694.png",
-    "static/media/Usopp.png": "/react-memory-pages/static/media/Usopp.9f0f12528e9953c8b8f4.png",
-    "static/media/onepiece.png": "/react-memory-pages/static/media/onepiece.d2479980846f3da377ea.png",
-    "index.html": "/react-memory-pages/index.html",
-    "main.5f636a19.css.map": "/react-memory-pages/static/css/main.5f636a19.css.map",
-    "main.3846a5d3.js.map": "/react-memory-pages/static/js/main.3846a5d3.js.map",
-    "787.d8f3d465.chunk.js.map": "/react-memory-pages/static/js/787.d8f3d465.chunk.js.map"
+    "main.css": "/react-memory-game/static/css/main.5f636a19.css",
+    "main.js": "/react-memory-game/static/js/main.689fcbe4.js",
+    "static/js/787.69b12325.chunk.js": "/react-memory-game/static/js/787.69b12325.chunk.js",
+    "static/media/Nami.png": "/react-memory-game/static/media/Nami.ad3fc635fa54a9517046.png",
+    "static/media/Luffy.png": "/react-memory-game/static/media/Luffy.60eec791391ea88d4d4b.png",
+    "static/media/brooks.png": "/react-memory-game/static/media/brooks.b1f1ac81252deddaa310.png",
+    "static/media/zorro.png": "/react-memory-game/static/media/zorro.c1852b227112ed0207be.png",
+    "static/media/Sanji.png": "/react-memory-game/static/media/Sanji.0f4edde8fe7fd3c06694.png",
+    "static/media/Usopp.png": "/react-memory-game/static/media/Usopp.9f0f12528e9953c8b8f4.png",
+    "static/media/onepiece.png": "/react-memory-game/static/media/onepiece.d2479980846f3da377ea.png",
+    "index.html": "/react-memory-game/index.html",
+    "main.5f636a19.css.map": "/react-memory-game/static/css/main.5f636a19.css.map",
+    "main.689fcbe4.js.map": "/react-memory-game/static/js/main.689fcbe4.js.map",
+    "787.69b12325.chunk.js.map": "/react-memory-game/static/js/787.69b12325.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f636a19.css",
-    "static/js/main.3846a5d3.js"
+    "static/js/main.689fcbe4.js"
   ]
 }
