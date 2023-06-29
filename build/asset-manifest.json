@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f636a19.css",
+    "main.js": "/static/js/main.2f0f9c58.js",
+    "static/js/787.69b12325.chunk.js": "/static/js/787.69b12325.chunk.js",
+    "static/media/Nami.png": "/static/media/Nami.ad3fc635fa54a9517046.png",
+    "static/media/Luffy.png": "/static/media/Luffy.60eec791391ea88d4d4b.png",
+    "static/media/brooks.png": "/static/media/brooks.b1f1ac81252deddaa310.png",
+    "static/media/zorro.png": "/static/media/zorro.c1852b227112ed0207be.png",
+    "static/media/Sanji.png": "/static/media/Sanji.0f4edde8fe7fd3c06694.png",
+    "static/media/Usopp.png": "/static/media/Usopp.9f0f12528e9953c8b8f4.png",
+    "static/media/onepiece.png": "/static/media/onepiece.d2479980846f3da377ea.png",
+    "index.html": "/index.html",
+    "main.5f636a19.css.map": "/static/css/main.5f636a19.css.map",
+    "main.2f0f9c58.js.map": "/static/js/main.2f0f9c58.js.map",
+    "787.69b12325.chunk.js.map": "/static/js/787.69b12325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f636a19.css",
+    "static/js/main.2f0f9c58.js"
+  ]
+}
